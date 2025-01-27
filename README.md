@@ -1,5 +1,5 @@
 # fdesai60.github.io
-# Hi, I'm Faiza! 👋
+# 👋 Hi, I'm Faiza! 
 
 I'm a recent graduate from the Northcoders Software Development Bootcamp in JavaScript.
 
